@@ -20,6 +20,9 @@ import com.tamisa.superadmin.Entity.PartnerCustomer;
 import com.tamisa.superadmin.Service.ItadminService;
 import com.tamisa.superadmin.dto.Filterdto;
 
+
+
+/// This is test case
 @RestController
 @RequestMapping("/tblchannel-partners-admin")
 public class adminController {
